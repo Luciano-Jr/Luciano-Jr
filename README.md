@@ -3,14 +3,17 @@
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7DD09&center=true&vCenter=true&width=435&lines=Welcome+to+my+github+%F0%9F%9A%80;Bem+vindo+ao+meu+Github%F0%9F%9A%80" alt="Typing SVG" /></h1>
 </div>
 
+<div align="center">
 
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=Luciano-Jr&show_icons=true&theme=maroongold"
     media="(prefers-color-scheme: dark)"
   />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username==Luciano-Jr&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username==Luciano-Jr&show_icons=true" />
 </picture>
+</div>
+
   <!--
 **Luciano-Jr/Luciano-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
