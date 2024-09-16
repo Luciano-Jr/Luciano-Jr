@@ -1,7 +1,6 @@
 ## Hi there 👋
-<div style="text-align: center;">
-  Teste de texto centralizado
-</div><!--
+
+<!--
 **Luciano-Jr/Luciano-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
