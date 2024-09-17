@@ -43,7 +43,9 @@
   <a  target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:ffc400,100:e62525&section=footer" /> </img>
+</div>
   <!--
 **Luciano-Jr/Luciano-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
