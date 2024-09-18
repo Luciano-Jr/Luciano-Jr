@@ -6,11 +6,7 @@
 <div align="center">
 
 <picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Luciano-Jr&show_icons=true&theme=maroongold"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username==Luciano-Jr&show_icons=true" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luciano-Jr&show_icons=true&count_private=true&hide_border=true&theme=maroongold" alt="Luciano Jr github stats" /> 
 </picture>
 </div>
 <h3 align="center">Programming Languages:</h3>
